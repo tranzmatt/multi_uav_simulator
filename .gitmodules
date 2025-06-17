@@ -1,0 +1,8 @@
+[submodule "mavswarm2/src/simulator_utils"]
+	path = mavswarm2/src/simulator_utils
+	url = git@github.com:malintha/simulator_utils.git
+	branch = ros2
+[submodule "mavswarm2/src/multi_uav_simulator"]
+	path = mavswarm2/src/multi_uav_simulator
+	url = git@github.com:malintha/multi_uav_simulator.git
+	branch = ros2
