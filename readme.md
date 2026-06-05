@@ -1,5 +1,5 @@
 
-## Currently I am migrating the code to ros2. Checkout the ``ros2`` branch for updates
+## Checkout the ``ros2`` branch for mavswarm2!
 
 # Mavswarm: A Lightweight Multi-Aerial Vehicle Simulator 
 
